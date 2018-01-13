@@ -9,7 +9,7 @@
 <short-name>mytags</short-name>
 <tag>
 	<!-- 태크이름 -->
-	<name>formatNumber</name>
+	<name>monneyFormat</name>
 	<!-- 태크 클래스 -->
 	<tag-class>customTag.NumberFormat</tag-class>
 	<body-content>tagdependent</body-content>

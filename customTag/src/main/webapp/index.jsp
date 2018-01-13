@@ -15,7 +15,7 @@
 
 <h2>customTag Test</h2>
 
-<mytags:formatNumber number="123123.574" format="#,###.00"/><br><br>
+<mytags:monneyFormat number="123123.574" format="#,###.00"/><br><br>
 
 </body>
 </html>
